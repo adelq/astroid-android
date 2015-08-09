@@ -1,5 +1,8 @@
-[Astrid](http://www.astrid.com/) - Task Management Done Right
+[Astroid](http://www.astrid.com/) - Task Management Done Right
 ================================  
+
+**Deprecated:** Please refer to [Tasks](https://github.com/tasks/tasks) for an up-to-date Astrid fork.
+
 Astrid strives to be a simple and effective organization tool for Google Android phones. It comes with features like reminders, tagging, widgets, and integration with online synchronization services.
 
 Interested in using Astrid? Search "astrid" in Android Market. Look for the smiling pink squid!
